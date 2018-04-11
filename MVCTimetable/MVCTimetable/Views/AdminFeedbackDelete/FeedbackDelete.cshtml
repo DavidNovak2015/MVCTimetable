@@ -1,0 +1,31 @@
+﻿@model MVCTimetable.Models.AdminFeedbackDeleteViewModel
+@{
+    ViewBag.Title = "AdminFeedbackDelete";
+}
+
+<h2>Löschung eines Berichts vom Besucher aufgrund ID</h2><br/>
+
+@using (Html.BeginForm())
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    <div class="form-horizontal">
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Id, new { @class="control-label col-md-2"})
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Id, new { @class="form-control"})
+                @Html.ValidationMessageFor(model => model.Id,"",new { @class="text-danger"})
+            </div>
+        </div><br/>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="finden" class="btn btn-default" />
+            </div>
+        </div>
+
+    </div>
+}
+

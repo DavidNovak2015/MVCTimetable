@@ -1,0 +1,50 @@
+﻿@model MVCTimetable.Models.AdminFeedbackDeleteViewModel
+@{
+    ViewBag.Title = "AdminFeedbackDelete";
+}
+
+<h2>Abbildung des Berichts im Zwecke seiner Löschung</h2><br/>
+
+@using (Html.BeginForm("MessageToDelete", "AdminFeedbackDelete",Model))
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    <div class="row">
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.MessageToDelete.Id, new { @class="control-label col-md-2"})
+            @Html.TextBoxFor(model => model.MessageToDelete.Id, new { @class="form-control", @readonly = "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.MessageToDelete.RequestType, new { @class="control-label col-md-2"})
+            @Html.TextBoxFor(model=> model.MessageToDelete.RequestType, new { @class="form-control", @readonly = "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.MessageToDelete.Message, new { @class="control-label col-md-2"})
+            @Html.TextBoxFor(model => model.MessageToDelete.Message, new { @class= "form-control", @readonly = "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.MessageToDelete.Email, new { @class="control-label col-md-2"})
+            @Html.TextBoxFor(model => model.MessageToDelete.Email, new { @class="form-control", @readonly = "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.MessageToDelete.PhoneNumber, new { @class="control-label col-md-2"})
+            @Html.TextBoxFor(model => model.MessageToDelete.PhoneNumber, new { @class="form-control", @readonly = "readonly" })
+        </div>
+
+    </div><br/>
+
+    <div class="row">
+        <div class="col-md-1 col-md-10">
+            <input type="submit" value="löschen" class="btn btn-default" />
+            @Html.ActionLink("abbrechen","Option","AdminOption",null,new { @class="btn btn-default"})
+        </div>
+    </div>
+
+}
+

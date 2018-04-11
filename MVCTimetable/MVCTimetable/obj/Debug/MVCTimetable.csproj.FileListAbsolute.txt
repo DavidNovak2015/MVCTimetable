@@ -1,0 +1,252 @@
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\ApplicationInsights.config
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\csc.exe
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\System.Collections.Immutable.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\vbc.exe
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\VBCSCompiler.exe
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\roslyn\VBCSCompiler.exe.config
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\MVCTimetable.dll.config
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\MVCTimetable.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\MVCTimetable.pdb
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Antlr3.Runtime.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\EntityFramework.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\EntityFramework.SqlServer.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.DependencyCollector.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Web.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.WindowsServer.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.ApplicationInsights.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Google.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Web.Infrastructure.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Newtonsoft.Json.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Owin.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.Helpers.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.Mvc.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.Optimization.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.Razor.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Deployment.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Razor.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\WebGrease.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.DependencyCollector.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Web.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AI.WindowsServer.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.ApplicationInsights.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.Helpers.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.Mvc.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.Optimization.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.Razor.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Deployment.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Razor.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Antlr3.Runtime.pdb
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Newtonsoft.Json.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\EntityFramework.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\EntityFramework.SqlServer.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Google.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Repos\training-david\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.csprojResolveAssemblyReference.cache
+C:\Repos\training-david\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.pdb
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\CLTimeTableDB.dll
+C:\Repos\training-david\MVCTimetable\MVCTimetable\bin\CLTimeTableDB.pdb
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\ApplicationInsights.config
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\csc.exe
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\vbc.exe
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\VBCSCompiler.exe
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\MVCTimetable.dll.config
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\MVCTimetable.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\MVCTimetable.pdb
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Antlr3.Runtime.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\CLTimeTableDB.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\EntityFramework.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\EntityFramework.SqlServer.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Web.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Newtonsoft.Json.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Owin.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Helpers.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Mvc.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Optimization.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Razor.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Razor.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\WebGrease.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\CLTimeTableDB.pdb
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Web.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Helpers.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Mvc.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Optimization.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Razor.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Razor.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Antlr3.Runtime.pdb
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Newtonsoft.Json.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\EntityFramework.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\EntityFramework.SqlServer.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.csprojResolveAssemblyReference.cache
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.pdb
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\ApplicationInsights.config
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\csc.exe
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\vbc.exe
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\VBCSCompiler.exe
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\MVCTimetable.dll.config
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\MVCTimetable.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\MVCTimetable.pdb
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Antlr3.Runtime.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\CLTimeTableDB.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\EntityFramework.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Web.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.ApplicationInsights.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Newtonsoft.Json.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Owin.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Helpers.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Mvc.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Optimization.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Razor.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\WebGrease.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\CLTimeTableDB.pdb
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.Web.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.ApplicationInsights.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Helpers.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Mvc.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Optimization.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.Razor.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Antlr3.Runtime.pdb
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Newtonsoft.Json.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\EntityFramework.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\MVCTimetable\obj\Debug\MVCTimetable.pdb

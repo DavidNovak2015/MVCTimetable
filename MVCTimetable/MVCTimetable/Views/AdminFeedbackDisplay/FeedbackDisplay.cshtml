@@ -1,0 +1,42 @@
+﻿@model MVCTimetable.Models.AdminFeedbackDisplayViewModel
+@{
+    ViewBag.Title = "Abbildung der Berichten von Besuchern";
+}
+
+@using (Html.BeginForm())
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    foreach (var message in Model.DisplayMessages)
+    {
+        <div class="row">
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => message.Id, new { @class="control-label"})
+                @Html.TextBoxFor(model => message.Id, new { @class="form-control", @readonly = "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => message.RequestType, new { @class="control-label"})
+                @Html.TextBoxFor(model => message.RequestType, new { @class="form-control", @readonly = "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => message.Message, new { @class="control-label"})
+                @Html.TextBoxFor(model => message.Message, new { @class="form-control", @readonly = "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => message.Email, new { @class="control-label"})
+                @Html.TextBoxFor(model => message.Email, new { @class="form-control", @readonly = "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => message.PhoneNumber, new { @class="control-label"})
+                @Html.TextBoxFor(model => message.PhoneNumber, new { @class="form-control", @readonly = "readonly" })
+            </div>
+        </div><br/>
+    }
+}
+

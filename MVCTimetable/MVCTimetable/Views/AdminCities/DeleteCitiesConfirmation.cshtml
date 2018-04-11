@@ -1,0 +1,34 @@
+﻿@model MVCTimetable.Models.AdminCitiesViewModel
+@{
+    ViewBag.Title = "DeleteCitiesConfirmation";
+}
+
+<h2>Abbildung der Stadt im Zwecke seiner Entfernung</h2>
+
+@using (Html.BeginForm("DeleteCityConfirmed","AdminCities",Model))
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    <div class="row">
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.CityToDelete.Id, new { @class="control-label col-md-2"})
+            @Html.TextBoxFor(model => model.CityToDelete.Id, new { @class="form-control", @readonly= "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.CityToDelete.CityName, new { @class="control-label col-md-2"})
+            @Html.TextBoxFor(model => model.CityToDelete.CityName, new { @class="form-control", @readonly= "readonly" })
+        </div><br/>
+
+    </div><br/>
+
+    <div class="row">
+        <div class="col-md-1 col-md-10">
+            <input type="submit" value="entfernen" class="btn btn-default" />
+            @Html.ActionLink("abbrechen","Option","AdminOption", null, new { @class="btn btn-default"})
+        </div>
+    </div>
+}
+

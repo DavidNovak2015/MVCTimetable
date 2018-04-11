@@ -1,0 +1,32 @@
+﻿@model MVCTimetable.Models.AdminCitiesViewModel
+@{
+    ViewBag.Title = "AdminDeleteCities";
+}
+
+<h2>Abbildung eingelegter Städte aufgrund ID</h2>
+
+@using (Html.BeginForm())
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    <div class="form-horizontal">
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IdCity, new { @class="control-label col-md-2"})
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.IdCity, new { @class="form-control"})
+                @Html.ValidationMessageFor(model => model.IdCity,"",new { @class="text-danger"})
+            </div>
+        </div><br/>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="finden" class="btn btn-default" />
+            </div>
+        </div>
+
+    </div>
+
+}
+

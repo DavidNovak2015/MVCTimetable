@@ -1,0 +1,48 @@
+﻿@model MVCTimetable.Models.ConnectionsViewModel
+@{
+    ViewBag.Title = "Connections";
+}
+
+
+<h2>Ihre Verkehrsverbindungen</h2>
+
+@using (Html.BeginForm())
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    string departureCityName=Model.GetCityName(Model.DepartureCityId);
+    string arrivalCityName=Model.GetCityName(Model.ArrivalCityId);
+
+    foreach (var connection in Model.Connections)
+    {
+        <div class="row">
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => model.DepartureDate, new { @class= "control-label" })
+                @Html.TextBoxFor(model => model.DepartureDate, @"{0:dd/MM/yyyy}", new { @class="form-control", @readonly= "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => connection.DepartureCityId, new { @class="control-label"})
+                @Html.TextBoxFor(model => departureCityName, new { @class="form-control", @readonly= "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => connection.DepartureTime, new { @class="control-label"})
+                @Html.TextBoxFor(model => connection.DepartureTime, @"{0:hh\:mm}", new { @class="form-control", @readonly="readonly"})
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => connection.ArrivalCityId, new { @class="control-label"})
+                @Html.TextBoxFor(model => arrivalCityName, new { @class="form-control", @readonly= "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => connection.ArrivalTime, new { @class="control-label"})
+                @Html.TextBoxFor(model => connection.ArrivalTime, @"{0:hh\:mm}", new { @class="form-control", @readonly= "readonly" })
+            </div>
+        </div>
+    }
+}
+

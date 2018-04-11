@@ -1,0 +1,51 @@
+﻿@model MVCTimetable.Models.AdminDeleteViewModel
+@{
+    ViewBag.Title = "AdminDelete";
+}
+
+<h2>Abbildung Verkehrsverbindung im Zwecke seiner Löschung</h2><br/>
+
+@using (Html.BeginForm("DeleteConnection", "AdminDelete", Model))
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    string departureCityName = Model.GetCityById(Model.ConnectionToDelete.DepartureCityId);
+    string arrivalCityName = Model.GetCityById(Model.ConnectionToDelete.ArrivalCityId);
+    <div class="row">
+        
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.ConnectionToDelete.ID, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => model.ConnectionToDelete.ID, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.ConnectionToDelete.DepartureCityId, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => departureCityName, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.ConnectionToDelete.DepartureTime, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => model.ConnectionToDelete.DepartureTime, @"{0:hh\:mm}", new { @class = "form-control", @readonly = "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.ConnectionToDelete.ArrivalCityId, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => arrivalCityName, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.ConnectionToDelete.ArrivalTime, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => model.ConnectionToDelete.ArrivalTime, @"{0:hh\:mm}", new { @class = "form-control", @readonly = "readonly" })
+        </div>
+    </div><br/>
+
+    <div class="row">
+            <div class="col-md-1 col-md-10">
+                <input type="submit" value="löschen" class="btn btn-default" />
+                @Html.ActionLink("abbrechen", "Option", "AdminOption", null, new { @class = "btn btn-default" })
+            </div>
+
+    </div>
+}
+

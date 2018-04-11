@@ -1,0 +1,30 @@
+﻿@model MVCTimetable.Models.AdminCitiesViewModel
+@{
+    ViewBag.Title = "AdminDisplayCities";
+}
+
+<h2>Abbildung eingelegter Städte</h2>
+
+@using (Html.BeginForm())
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    foreach (var city in Model.Cities)
+    {
+        <div class="row">
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => city.Id, new { @class="control-label"})
+                @Html.TextBoxFor(model => city.Id, new { @class="form-control", @readonly= "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(model => city.CityName, new { @class="control-label"})
+                @Html.TextBoxFor(model => city.CityName, new { @class="form-control", @readonly="readonly"})
+            </div>
+
+        </div><br/>
+    }
+}
+

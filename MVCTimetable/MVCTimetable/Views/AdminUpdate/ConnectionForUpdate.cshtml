@@ -1,0 +1,81 @@
+﻿@model MVCTimetable.Models.AdminUpdateViewModel
+@{
+    ViewBag.Title = "AdminUpdate";
+}
+
+<h2>Abbildung Verkehrsverbindung im Zwecke seiner Änderung</h2><br/>
+
+@using (Html.BeginForm("UpdateConnection", "AdminUpdate",Model))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    var oldDepartureCityName = Model.GetCityById(Model.DisplayOldConnection.DepartureCityId);
+    var oldArrivalCityName = Model.GetCityById(Model.DisplayOldConnection.ArrivalCityId);
+
+    <div class="row">
+
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.DisplayOldConnection.ID, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => model.DisplayOldConnection.ID, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.DisplayOldConnection.DepartureCityId, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => oldDepartureCityName, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.DisplayOldConnection.DepartureTime, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => model.DisplayOldConnection.DepartureTime,@"{0:hh\:mm}" ,new { @class = "form-control", @readonly = "readonly" })
+        </div>
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.DisplayOldConnection.ArrivalCityId, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => oldArrivalCityName, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.DisplayOldConnection.ArrivalTime, new { @class = "control-label col-md-2" })
+            @Html.TextBoxFor(model => model.DisplayOldConnection.ArrivalTime,@"{0:hh\:mm}" ,new { @class = "form-control", @readonly = "readonly" })
+        </div>
+
+    </div><br/>
+
+    <div class="form-horizontal">
+        
+        <div class="form-group">
+            @Html.LabelFor(model => model.UpdateConnection.DepartureCityId, new { @class="control-label col-md-2"})   
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.UpdateConnection.DepartureCityId, new SelectList(Model.Cities, "CityId", "City"))
+                @Html.ValidationMessageFor(model => model.UpdateConnection.DepartureCityId, "", new { @class = "text-danger" })
+            </div>
+        </div><br/>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UpdateConnection.DepartureTime, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UpdateConnection.DepartureTime, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.UpdateConnection.DepartureTime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.UpdateConnection.ArrivalCityId, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.UpdateConnection.ArrivalCityId, new SelectList(Model.Cities, "CityId", "City"))
+                @Html.ValidationMessageFor(model => model.UpdateConnection.ArrivalCityId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br/>
+        <div class="form-group">
+            @Html.LabelFor(model => model.UpdateConnection.ArrivalTime, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UpdateConnection.ArrivalTime, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.UpdateConnection.ArrivalTime)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="ändern" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+

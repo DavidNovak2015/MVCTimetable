@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Admin";
+} 
+
+<h2>Administration</h2><h3>Städte</h3>
+
+<h4> @Html.ActionLink("Eine Stadt einlegen", "AddCity", controllerName: "AdminCities", routeValues:null, htmlAttributes: new { @class="btn btn-default"})</h4>
+
+<h4> @Html.ActionLink("Abbildung eingelegter Städte", "DisplayCities", "AdminCities", routeValues:null, htmlAttributes: new { @class="btn btn-default"})</h4>
+
+<h4> @Html.ActionLink("Eine Stadt entfernen", "DeleteCities", "AdminCities", routeValues:null, htmlAttributes: new { @class="btn btn-default"})</h4>
+
+<h3>Verkehrsverbindugen</h3>
+
+<h4> @Html.ActionLink("Gründung neuer Verkehrsverbindung", "Create", controllerName:"AdminCreate", routeValues: null, htmlAttributes: new { @class = "btn btn-default" }) </h4><br/>
+
+<h4> @Html.ActionLink("Abbildung gespeicherter Verkehrsverbindugen","Display", controllerName:"AdminDisplay", routeValues:null, htmlAttributes: new { @class= "btn btn-default" })</h4><br/>
+
+<h4> @Html.ActionLink("Änderung gegründeter Verkehrsverbindung aufgrund ID", "Update", controllerName:"AdminUpdate", routeValues:null, htmlAttributes:new { @class= "btn btn-default" })</h4><br/>
+
+<h4> @Html.ActionLink("Löschung gegründeter Verkehrsverbindung aufgrund ID","Delete", controllerName: "AdminDelete", routeValues:null, htmlAttributes:new {@class= "btn btn-default" })</h4><br/>
+
+<h3>Berichten aus web Seiten</h3>
+
+<h4> @Html.ActionLink("Abbildung der Berichten von Besuchern", "FeedbackDisplay", controllerName: "AdminFeedbackDisplay", routeValues:null,htmlAttributes:new { @class= "btn btn-default" })</h4><br/>
+
+<h4> @Html.ActionLink("Löschung eines Berichtes vom Besucher aufgrund ID", "FeedbackDelete", controllerName: "AdminFeedbackDelete", routeValues:null, htmlAttributes:new { @class= "btn btn-default" })</h4><br/>
+
+
+

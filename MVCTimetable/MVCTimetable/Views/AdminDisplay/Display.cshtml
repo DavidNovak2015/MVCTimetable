@@ -1,0 +1,50 @@
+﻿@model MVCTimetable.Models.AdminDisplayViewModel
+@{
+    ViewBag.Title = "AdminView";
+}
+@using CLTimeTableDB;
+
+<h2>Abbildung gespeicherter Verkehrsverbindugen</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    foreach (var connection in Model.DisplayConnections)
+    {
+
+        var departureCityName = Model.GetCityById(connection.DepartureCityId);
+        var arrivalCityName = Model.GetCityById(connection.ArrivalCityId);
+
+        <div class="row">
+            <div class="col-md-2">
+                @Html.LabelFor(m => connection.ID, new { @class = "control-label" })
+                @Html.TextBoxFor(m => connection.ID,  new { @class = "form-control", @readonly= "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(m => connection.DepartureCityId, new { @class = "control-label" })
+                @Html.TextBoxFor(m => departureCityName, new { @class = "form-control", @readonly = "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(m => connection.DepartureTime, new { @class = "control-label" })
+                @Html.TextBoxFor(m => connection.DepartureTime, @"{0:hh\:mm}",new { @class = "form-control", @readonly = "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(m => connection.ArrivalCityId, new { @class = "control-label" })
+                @Html.TextBoxFor(m => arrivalCityName, new { @class = "form-control", @readonly = "readonly" })
+            </div>
+
+            <div class="col-md-2">
+                @Html.LabelFor(m => connection.ArrivalTime, new { @class = "control-label" })
+                @Html.TextBoxFor(m => connection.ArrivalTime, @"{0:hh\:mm}",new { @class = "form-control", @readonly = "readonly" })
+            </div>
+
+        </div>
+        <br/>
+    }
+}
+

@@ -1,0 +1,62 @@
+﻿@model MVCTimetable.Models.FeedbackViewModel
+@{
+    ViewBag.Title = "Reisebüro";
+}
+
+<div class="jumbotron">
+    <h1>R E I S E   B Ü R O</h1>
+</div>
+
+<div class="row">
+        <p> <h4>Mit unserer Reisebüro können Sie komfortabel nach Prag reisen. </h4></p><br/>
+        <p> <h4>Schreiben Sie uns bitte Ihre Meinung:</h4></p>
+</div>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <div class="form-horizontal">
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => m.Email, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.PhoneNumber, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => m.PhoneNumber, new { @class ="form-control"})
+                @Html.ValidationMessageFor(m => m.PhoneNumber,"", new { @class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Message, new { @class="control-label col-md-2"})
+            <div class="col-md-10">
+                @Html.EditorFor(m => m.Message, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Message,"", new { @class="text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+           @Html.LabelFor(m => m.RequestType, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.RequestType, new SelectList(Model.RequestTypes,"Value","Text"))
+                @Html.ValidationMessageFor(m => m.RequestType)
+            </div>
+        </div>
+
+        <div class="form-group">
+           <div class="col-md-offset-2 col-md-10">
+               <input type="submit" value="Abschicken" class="btn btn-default" />
+           </div> 
+        </div>
+
+     </div>
+}
+
+

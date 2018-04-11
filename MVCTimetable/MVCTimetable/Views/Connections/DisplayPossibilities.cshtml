@@ -1,0 +1,47 @@
+﻿@model MVCTimetable.Models.ConnectionsViewModel
+
+@{
+    ViewBag.Title = "Possibilities";
+}
+
+<h2>Auswahl der Verkehrsverbindungen</h2><br/>
+
+@using (Html.BeginForm("DisplayConnections", "Connections",FormMethod.Get))
+{
+    Html.AntiForgeryToken();
+    Html.ValidationSummary(true);
+
+    <div class="form-horizontal">
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartureDate, new { @class="control-label col-md-2"})
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DepartureDate, new { @class = "form-control", })
+                @Html.ValidationMessageFor(model => model.DepartureDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartureCityId, new { @class= "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.DepartureCityId, new SelectList(Model.Cities, "CityId", "CityName"))
+                @Html.ValidationMessageFor(model => model.DepartureCityId,"",new { @class="text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ArrivalCityId, new { @class= "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.ArrivalCityId, new SelectList(Model.Cities, "CityId", "CityName"))
+                @Html.ValidationMessageFor(model => model.ArrivalCityId,"",new { @class= "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" formmethod="get" value="finden" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+

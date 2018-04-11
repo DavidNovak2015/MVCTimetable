@@ -1,0 +1,25 @@
+C:\Repos\training-david\MVCTimetable\CLTimeTableDB\bin\Debug\CLTimeTableDB.dll
+C:\Repos\training-david\MVCTimetable\CLTimeTableDB\bin\Debug\CLTimeTableDB.pdb
+C:\Repos\training-david\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.dll
+C:\Repos\training-david\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.pdb
+C:\Repos\training-david\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.csprojResolveAssemblyReference.cache
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\CLTimeTableDB.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\CLTimeTableDB.pdb
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.csprojResolveAssemblyReference.cache
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.pdb
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\CLTimeTableDB.dll.config
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\EntityFramework.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\EntityFramework.xml
+C:\Users\dnovak\Documents\Visual Studio 2015\Projects\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\CLTimeTableDB.dll.config
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\CLTimeTableDB.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\CLTimeTableDB.pdb
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\EntityFramework.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.dll
+C:\Users\David\Desktop\David\Programovani\MVCProjects\MVCTimetable\CLTimeTableDB\obj\Debug\CLTimeTableDB.pdb
